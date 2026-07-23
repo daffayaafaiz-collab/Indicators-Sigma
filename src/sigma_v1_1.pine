@@ -1,0 +1,2 @@
+//@version=6
+indicator("SIGMA Indicator v1.1", overlay=true)
